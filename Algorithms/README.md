@@ -1,31 +1,31 @@
 # BIG O
 
-![alt text](image.png)
-![alt text](bigOShortHands.png)
-![alt text](chart.png)
+![alt text](./imgs/image.png)
+![alt text](./imgs/bigOShortHands.png)
+![alt text](./imgs/chart.png)
 
 # SPACE COMPLEXITY
 
-![alt text](spaceComp.png)
+![alt text](./imgs/spaceComp.png)
 
 #### Solving Problems
 
-![alt text](solvingSteps.png)
+![alt text](./imgs/solvingSteps.png)
 
 ##### Understand the problem
 
-![alt text](understandProb.png)
+![alt text](./imgs/understandProb.png)
 
 ##### Explore concrete examples
 
-![alt text](exploreEx.png)
+![alt text](./imgs/exploreEx.png)
 
 ##### Break it down
 
-![alt text](breakingProb.png)
+![alt text](./imgs/breakingProb.png)
 
 ##### Refactor
 
 ###### Refactoring questions
 
-![alt text](refactoringQ.png)
+![alt text](./imgs/refactoringQ.png)

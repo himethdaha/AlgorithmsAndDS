@@ -1,9 +1,9 @@
 # OBJECTS
 
-![alt text](objects.png)
-![alt text](objectMethods.png)
+![alt text](./imgs/objects.png)
+![alt text](./imgs/objectMethods.png)
 
 # ARRAYS
 
-![alt text](arrays.png)
-![alt text](arrayMethods.png)
+![alt text](./imgs/arrays.png)
+![alt text](./imgs/arrayMethods.png)
